@@ -1,0 +1,1 @@
+xdxdxdxdxdxd<?php /**PATH D:\xampp\htdocs\practica3\resources\views/ventas/venta.blade.php ENDPATH**/ ?>
